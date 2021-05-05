@@ -1,7 +1,9 @@
 ---
 title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+date: 2015-05-06T23:46:37.121Z
+description: Это интересная статья
 ---
+![Крик](009.jpg "Головная боль всех программистов это настроить npm без ошибки")
 
 Wow! I love blogging so much already.
 
