@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Пресс-Центр ОО QAZYMCENTER`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `QAZYMCENTER`,
+      summary: `публикует здесь информацию о проблемах людей с ограничением слуха в Казахстане. Статьи размещенные здесь могут быть использованы СМИ при условии отсылки на оригинал, или подтверждения у администраторов сайта.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Qazymcenter публикует информацию о проблемах глухих инвалидов в Казахстане.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `qazymcenter`,
+      
     },
   },
   plugins: [
