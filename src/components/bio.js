@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           Общественное Объединение <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://instagram.com/${social?.instagram || ``}`}>
+          <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank">
             Видео-библиотека на жестовом языке в Instagram
           </a>
         </p>
