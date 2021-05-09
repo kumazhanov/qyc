@@ -1,7 +1,8 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Новое Начало
+date: 2015-05-28T22:40:32.169Z
+description: Это пользовательское описание для целей SEO и Open Graph, а не
+  отрывок, созданный по умолчанию. Просто добавьте поле описания к обложке.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
